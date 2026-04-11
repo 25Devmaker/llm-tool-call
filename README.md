@@ -6,8 +6,8 @@ Built in Public: Building an AI lead generation system step by step.
 
 - [x] 01 — Single tool (Groq + Google Search)
 - [x] 02 — Sequential tool calling (Search → Telegram)
-- [ ] 03 — Cron job (runs every morning automatically)
-- [ ] 04 — Interactive terminal agent
+- [x] 03 — Cron job (runs every morning automatically)
+- [x] 04 — Interactive terminal agent
 
 ## Stack
 - Python
